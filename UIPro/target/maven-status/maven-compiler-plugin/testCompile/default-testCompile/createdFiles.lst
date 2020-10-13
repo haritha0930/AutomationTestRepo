@@ -1,0 +1,6 @@
+com\testcases\Regression\FirstTest.class
+com\testcases\Smoke\FirstTest.class
+com\testcases\Smoke\SecondTest.class
+com\testcases\Smoke\ThirdTest.class
+com\testcases\Regression\SecondTest.class
+com\testcases\Regression\ThirdTest.class

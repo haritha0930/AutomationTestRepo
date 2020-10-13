@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SmokeTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.003">
+  <properties />
+  
+  
+            <testcase name="TC4" time="0.001" classname="com.testcases.Smoke.SecondTest" />
+                <testcase name="TC5" time="0.001" classname="com.testcases.Smoke.SecondTest" />
+                <testcase name="TC6" time="0.001" classname="com.testcases.Smoke.SecondTest" />
+      
+</testsuite>

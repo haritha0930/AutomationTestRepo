@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChromeRegressionTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.003">
+  <properties />
+  
+  
+            <testcase name="TC8" time="0.001" classname="com.testcases.Regression.ThirdTest" />
+                <testcase name="TC7" time="0.001" classname="com.testcases.Regression.ThirdTest" />
+                <testcase name="TC9" time="0.001" classname="com.testcases.Regression.ThirdTest" />
+      
+</testsuite>

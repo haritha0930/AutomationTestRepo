@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="10" total="18" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="false" duration-ms="41" started-at="2020-10-13T13:12:44Z" finished-at="2020-10-13T13:12:45Z">
+    <groups>
+      <group name="regression">
+        <method signature="FirstTest.TC1()[pri:0, instance:com.testcases.Regression.FirstTest@3bfdc050]" name="TC1" class="com.testcases.Regression.FirstTest"/>
+        <method signature="FirstTest.TC3()[pri:0, instance:com.testcases.Regression.FirstTest@3bfdc050]" name="TC3" class="com.testcases.Regression.FirstTest"/>
+        <method signature="SecondTest.TC4()[pri:0, instance:com.testcases.Regression.SecondTest@1bce4f0a]" name="TC4" class="com.testcases.Regression.SecondTest"/>
+        <method signature="SecondTest.TC5()[pri:0, instance:com.testcases.Regression.SecondTest@1bce4f0a]" name="TC5" class="com.testcases.Regression.SecondTest"/>
+        <method signature="SecondTest.TC6()[pri:0, instance:com.testcases.Regression.SecondTest@1bce4f0a]" name="TC6" class="com.testcases.Regression.SecondTest"/>
+        <method signature="ThirdTest.TC7()[pri:0, instance:com.testcases.Regression.ThirdTest@5e3a8624]" name="TC7" class="com.testcases.Regression.ThirdTest"/>
+        <method signature="ThirdTest.TC8()[pri:0, instance:com.testcases.Regression.ThirdTest@5e3a8624]" name="TC8" class="com.testcases.Regression.ThirdTest"/>
+        <method signature="ThirdTest.TC9()[pri:0, instance:com.testcases.Regression.ThirdTest@5e3a8624]" name="TC9" class="com.testcases.Regression.ThirdTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="ChromeRegressionTest" duration-ms="41" started-at="2020-10-13T13:12:44Z" finished-at="2020-10-13T13:12:45Z">
+      <class name="com.testcases.Regression.ThirdTest">
+        <test-method status="PASS" signature="TC7()[pri:0, instance:com.testcases.Regression.ThirdTest@5e3a8624]" name="TC7" duration-ms="0" started-at="2020-10-13T13:12:45Z" finished-at="2020-10-13T13:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC7 -->
+        <test-method status="PASS" signature="TC8()[pri:0, instance:com.testcases.Regression.ThirdTest@5e3a8624]" name="TC8" duration-ms="0" started-at="2020-10-13T13:12:45Z" finished-at="2020-10-13T13:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC8 -->
+        <test-method status="PASS" signature="TC9()[pri:0, instance:com.testcases.Regression.ThirdTest@5e3a8624]" name="TC9" duration-ms="0" started-at="2020-10-13T13:12:45Z" finished-at="2020-10-13T13:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC9 -->
+      </class> <!-- com.testcases.Regression.ThirdTest -->
+      <class name="com.testcases.Regression.FirstTest">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:com.testcases.Regression.FirstTest@3bfdc050]" name="TC1" duration-ms="9" started-at="2020-10-13T13:12:44Z" finished-at="2020-10-13T13:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="TC3()[pri:0, instance:com.testcases.Regression.FirstTest@3bfdc050]" name="TC3" duration-ms="0" started-at="2020-10-13T13:12:45Z" finished-at="2020-10-13T13:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- com.testcases.Regression.FirstTest -->
+      <class name="com.testcases.Regression.SecondTest">
+        <test-method status="PASS" signature="TC4()[pri:0, instance:com.testcases.Regression.SecondTest@1bce4f0a]" name="TC4" duration-ms="0" started-at="2020-10-13T13:12:45Z" finished-at="2020-10-13T13:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method status="PASS" signature="TC6()[pri:0, instance:com.testcases.Regression.SecondTest@1bce4f0a]" name="TC6" duration-ms="0" started-at="2020-10-13T13:12:45Z" finished-at="2020-10-13T13:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6 -->
+        <test-method status="PASS" signature="TC5()[pri:0, instance:com.testcases.Regression.SecondTest@1bce4f0a]" name="TC5" duration-ms="0" started-at="2020-10-13T13:12:45Z" finished-at="2020-10-13T13:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5 -->
+      </class> <!-- com.testcases.Regression.SecondTest -->
+    </test> <!-- ChromeRegressionTest -->
+  </suite> <!-- false -->
+</testng-results>
